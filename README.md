@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Charlie Herndon
 ### Entry-Level Software Developer
-I'm Charlie from Texas, and I am an entry-level software developer. I primarily enjoy writing in C#, but have experience in a wide variety of languages. I have done work in web development, database management, and software engines such as Unreal Engine and Unity. I am also looking for was to grow my knowledge and skills as a programmer.
+I'm Charlie from Texas, and I am an entry-level software developer. I primarily enjoy writing in C#, but have experience in a wide variety of languages. I have done work in web development, database management, and software engines such as Unreal Engine and Unity. I am also looking for ways to grow my knowledge and skills as a programmer.
 
 ## Skills and Experience
 🖥️ Programming Languages:
